@@ -14,6 +14,9 @@ and open the template in the editor.
         echo 'este es un proyecto de prueba git';
         
         echo 'primera linea';
+        
+        
+        echo 'segundo comit</br>';
         ?>
     </body>
 </html>
